@@ -26,6 +26,9 @@ namespace DemoJWT.Repository
             }
             catch
             {
+
+
+
                 throw;
             }
         }
