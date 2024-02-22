@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shanmukha\\Desktop\\demos\\DemoJWT\\demo\\DemoJWT\\DemoJWT.csproj": {}
+    "C:\\Users\\Shanmukha\\Desktop\\demos\\Hmm\\demo\\DemoJWT\\DemoJWT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shanmukha\\Desktop\\demos\\DemoJWT\\demo\\DemoJWT\\DemoJWT.csproj": {
+    "C:\\Users\\Shanmukha\\Desktop\\demos\\Hmm\\demo\\DemoJWT\\DemoJWT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shanmukha\\Desktop\\demos\\DemoJWT\\demo\\DemoJWT\\DemoJWT.csproj",
+        "projectUniqueName": "C:\\Users\\Shanmukha\\Desktop\\demos\\Hmm\\demo\\DemoJWT\\DemoJWT.csproj",
         "projectName": "DemoJWT",
-        "projectPath": "C:\\Users\\Shanmukha\\Desktop\\demos\\DemoJWT\\demo\\DemoJWT\\DemoJWT.csproj",
+        "projectPath": "C:\\Users\\Shanmukha\\Desktop\\demos\\Hmm\\demo\\DemoJWT\\DemoJWT.csproj",
         "packagesPath": "C:\\Users\\Shanmukha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shanmukha\\Desktop\\demos\\DemoJWT\\demo\\DemoJWT\\obj\\",
+        "outputPath": "C:\\Users\\Shanmukha\\Desktop\\demos\\Hmm\\demo\\DemoJWT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
