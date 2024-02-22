@@ -12,12 +12,16 @@ namespace DemoJWT.Repository
         public EmployeeRepository(ApplicationDbContext dbContext)
         {
             _dbContext = dbContext;
+                 
         }
 
         public List<Employee> GetEmployeeDetails()
         {
-            try
+            try 
             {
+
+
+
                 return _dbContext.Employees.ToList();
             }
             catch
