@@ -17,6 +17,7 @@ namespace DemoJWT.Controllers
         public IConfiguration _configuration;
         private readonly ApplicationDbContext _context;
 
+
         public JwtTokenController(IConfiguration config, ApplicationDbContext context)
         {
             _configuration = config;
