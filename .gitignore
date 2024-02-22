@@ -6,3 +6,6 @@
 /DemoJWT/obj/Debug/net6.0/DemoJWT.AssemblyInfo.cs
 /DemoJWT/obj/Debug/net6.0/DemoJWT.AssemblyInfoInputs.cache
 /.gitignore
+*.vsidx
+/.gitignore
+/.gitignore
